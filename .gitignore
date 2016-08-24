@@ -1,0 +1,25 @@
+Bin/VC152/Q23.EXE
+Bin/VC152/ML.ERR
+Bin/VC152/ML.ded
+Bin/VC152/CL.MSG
+Bin/VC152/C1.ERR
+Bin/VC152/CL.DEF
+Txt/16Bit Code in VisualStudio.txt
+Txt/Notes.txt
+Bin/VC152/LINK.EXE
+Bin/VC152/ML.EXE
+Bin/VC152/C23PCD.EXE
+Bin/VC152/C33216.EXE
+Bin/VC152/CL.EXE
+Build/boot.obj
+Bin/VC152/CL.ERR
+Out/kernel.bin
+Out/bootstrap.bin
+*.obj
+*.bxrc
+Bin/VC152/C13216.EXE
+Bin/VC152/MASM.exe
+Bin/VC152/C1XX3216.EXE
+Bin/VC152/C23216.EXE
+Out/disc.img
+Build/bx_enh_dbg.ini
