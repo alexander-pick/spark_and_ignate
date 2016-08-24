@@ -1,5 +1,5 @@
+A little OS project for learning
 SparkBoot and IgniteKernel 0.1a
-a little OS Project for learning
 =========================================================================================================================
 
 Hi there,
