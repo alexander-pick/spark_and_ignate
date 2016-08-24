@@ -1,4 +1,5 @@
-SparkBoot and IgniteKernel 0.1a - A little OS Project for learning
+SparkBoot and IgniteKernel 0.1a
+a little OS Project for learning
 =========================================================================================================================
 
 Hi there,
