@@ -13,8 +13,11 @@ code segment use16
  
 	org		0h					; for Kernel
 
-	main:
+	; TODO: for some odd reason this file is skipped, and the kernel is entered via kernel.cpp
+	; needs to be fixed.
+
 	start:
+	main:
         call _KernelInit			; jump into the C++ World
 	
 	code ends
